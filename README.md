@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"> 👋🏻, I'm Dhruv, pursuing a B.Tech student exploring different fields and technologies🚀</div>  
+### <div align="center"> 👋🏻, I'm Dhruv, a B.Tech student exploring different fields and technologies🚀</div>  
   
 
 - 🌱 I’m currently learning Full Stack Web Development  
@@ -114,21 +114,3 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
